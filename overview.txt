@@ -1,0 +1,9 @@
+All fiber optic cables consist of three layers:
+1. Core - An extremely thin single strand of glass or high quality plastic. This single
+strand is layer that carries the data.
+2. Cladding - Another layer of glass with a slightly different index of refraction from
+the core. This slight difference can either allow light energy out from the core or
+keep the majority of energy within the core (via reflections).
+3. Jacket - Usually the last outer layer of plastic intended to protect the core and the
+cladding. The composition of this layer greatly depends on the intended installation
+environment.
