@@ -1,6 +1,6 @@
 """
 Calculating lengths of fiber optic cables
-Author Adam Kapala
+Author SpaceZ
 version Alpha
 receiver sensitivity needs to be updated/add GUI
 """
